@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = azure://whatplane.blob.core.windows.net/dataset-detector
+    url = azure://dataset-detector/
