@@ -1,6 +1,6 @@
-train: processed/train/images
-val: processed/valid/images
-test: processed/valid/test
+train: data/processed/train/images
+val: data/processed/valid/images
+test: data/processed/valid/test
 
 nc: 1
 names: ['aircraft']
