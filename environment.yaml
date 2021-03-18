@@ -1,0 +1,7 @@
+name: whatplane-detect
+dependencies:
+  - python=3.8
+  - pip
+  # Install local package with pip
+  - pip:
+    - -r file:requirements.txt
